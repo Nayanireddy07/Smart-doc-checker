@@ -1,0 +1,11 @@
+flask
+openai
+python-dotenv
+PyPDF
+python-docx
+google-generativeai
+Flask-Limiter
+Flask-Cors
+Werkzeug
+filetype
+gunicorn
